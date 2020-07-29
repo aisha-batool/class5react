@@ -1,5 +1,4 @@
 import React, { useReducer } from 'react'
-import Child from './Child'
 import counterReducer from './counterReducer'
 
 const Child2 = () => {
